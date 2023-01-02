@@ -1,0 +1,11 @@
+/node_modules
+/.pnp
+.pnp.js
+
+/config/serviceAccountKey.json
+# testing
+/coverage
+
+# production
+/build
+
